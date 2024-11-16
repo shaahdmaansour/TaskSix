@@ -1,6 +1,6 @@
 #test if the calculator is working correctly
 import unittest
-from add import add
+from addCalculator import add
 
 class TestAddFunction(unittest.TestCase):
   def test_add(self):
